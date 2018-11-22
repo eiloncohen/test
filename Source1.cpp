@@ -18,6 +18,7 @@ int main()
 
   int tal;
 
+  int elion;
 
 
 	return 0;
