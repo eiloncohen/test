@@ -15,5 +15,9 @@ int main()
 	{
 		++i;
 	}
+
+  int x;
+
+
 	return 0;
 }
