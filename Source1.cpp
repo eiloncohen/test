@@ -15,5 +15,10 @@ int main()
 	{
 		++i;
 	}
+
+  int tal;
+
+
+
 	return 0;
 }
